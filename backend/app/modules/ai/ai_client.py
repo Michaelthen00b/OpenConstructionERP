@@ -70,7 +70,7 @@ KIMI_MODEL = "kimi-latest"
 OPENROUTER_MODEL = "anthropic/claude-sonnet-4"
 MISTRAL_MODEL = "mistral-large-latest"
 GROQ_MODEL = "llama-3.3-70b-versatile"
-DEEPSEEK_MODEL = "deepseek-chat"
+DEEPSEEK_MODEL = "deepseek-flash"
 
 #: The runtimes a user hosts themselves rather than calling over the internet.
 #: Naming the pair once is not tidiness: three separate decisions read it, and
